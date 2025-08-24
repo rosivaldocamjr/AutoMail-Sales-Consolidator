@@ -1,0 +1,32 @@
+Projeto Python CSV
+
+Retirado do site Workana.
+
+Preciso automatizar uma planilha que está em CSV, extraída de um software
+para uma planilha consolidada em Excel. Preciso que haja uma atualização
+diária dessa planilha para ser enviada por e-mail.
+
+Os arquivos CSV estão dentro da pasta arquivos_csv.
+
+Objetivo: pegar todos os CSV's na pasta arquivos_csv (independente da
+quantidade de arquivos), consolidar(juntar) esses arquivos e enviar 
+um relatório por e-mail.
+
+O código será feito no arquivo codigo.py.
+
+Precisamos de algumas bibliotecas para esse projeto:
+
+- Pandas: é usado para trabalhar com grandes volumes de dados de forma 
+rápida, flexível e eficiente.
+
+- OS: é usado para controlar e automatizar tarefas no sistema de arquivos
+e no ambiente do computador. Ela já vem instalada.
+
+- Pywin32: é usado para automatizar e controlar aplicações e serviços do
+Windows diretamente via Python. Será usado para enviar e-mail com outlook.
+
+Instalando as bibliotecas:
+
+Abra o terminal e digite "pip install pandas numpy openpyxl pywin32".
+
+O pandas precisa do numpy e do openpyxl.

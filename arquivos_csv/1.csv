@@ -1,0 +1,51 @@
+﻿nome do produto,sistema,documento,transação,meio de pagamento,moeda,preço do produto,número da parcela,data de venda
+Impressora,Loja Física,NF-e,Estorno,Cartão de Débito,EUR,1212.12,7,2025-03-12
+Impressora,E-commerce,NF-e,Estorno,Dinheiro,EUR,2037.95,14,2025-02-14
+Mouse,Loja Física,Recibo,Venda,Pix,EUR,2826.3,7,2024-08-24
+Fone de Ouvido,E-commerce,Cupom Fiscal,Venda,Cartão de Crédito,USD,5919.77,18,2022-12-01
+Impressora,Loja Física,Recibo,Venda,Pix,USD,3551.81,32,2023-07-05
+Smartphone,App Mobile,Recibo,Venda,Dinheiro,BRL,928.29,17,2022-12-09
+Smartphone,App Mobile,NF-e,Troca,Pix,BRL,2870.12,22,2024-09-20
+Mouse,App Mobile,Recibo,Troca,Cartão de Débito,BRL,5237.47,10,2022-12-19
+Mouse,Loja Física,Cupom Fiscal,Troca,Pix,USD,6609.86,18,2023-02-15
+Smartphone,App Mobile,Cupom Fiscal,Venda,Pix,USD,4449.94,12,2023-01-13
+Monitor,App Mobile,Recibo,Venda,Cartão de Crédito,EUR,3034.69,5,2023-05-29
+Mouse,App Mobile,NF-e,Estorno,Cartão de Débito,BRL,1830.62,29,2024-07-08
+Mouse,Loja Física,Recibo,Estorno,Cartão de Débito,EUR,1927.1,24,2024-02-15
+Notebook,E-commerce,Cupom Fiscal,Troca,Pix,USD,300.2,35,2023-08-12
+Impressora,App Mobile,Recibo,Estorno,Pix,USD,4789.63,8,2022-11-26
+Smartphone,App Mobile,Cupom Fiscal,Estorno,Pix,USD,1368.15,15,2025-03-24
+Impressora,E-commerce,Recibo,Troca,Dinheiro,USD,2153.38,35,2024-11-05
+Impressora,E-commerce,Cupom Fiscal,Venda,Cartão de Débito,USD,6627.76,4,2022-10-14
+Notebook,E-commerce,Recibo,Venda,Boleto,BRL,6029.56,36,2025-07-10
+Smartphone,E-commerce,Recibo,Troca,Cartão de Débito,EUR,3863.33,14,2023-07-01
+Mouse,App Mobile,NF-e,Troca,Dinheiro,EUR,1601.19,8,2025-01-10
+Smartphone,Loja Física,NF-e,Troca,Boleto,BRL,3116.72,4,2025-07-08
+Fone de Ouvido,Loja Física,Cupom Fiscal,Estorno,Dinheiro,USD,1536.53,5,2025-02-13
+Mouse,App Mobile,Recibo,Venda,Boleto,EUR,2721.48,9,2024-11-03
+Notebook,E-commerce,Recibo,Estorno,Pix,BRL,3035.95,17,2024-01-13
+Impressora,E-commerce,Recibo,Estorno,Pix,EUR,1962.2,5,2024-02-26
+Teclado,E-commerce,Recibo,Troca,Dinheiro,EUR,4564.52,4,2024-09-25
+Teclado,Loja Física,Recibo,Venda,Cartão de Débito,EUR,1913.83,10,2024-04-28
+Monitor,E-commerce,Recibo,Estorno,Cartão de Crédito,USD,4336.2,16,2023-07-30
+Impressora,Loja Física,NF-e,Estorno,Dinheiro,USD,2821.42,18,2024-09-09
+Smartphone,Loja Física,Cupom Fiscal,Venda,Cartão de Crédito,BRL,2103.36,29,2025-04-04
+Teclado,E-commerce,NF-e,Estorno,Cartão de Débito,EUR,6806.06,20,2025-01-11
+Smartphone,App Mobile,NF-e,Troca,Dinheiro,EUR,2701.86,34,2023-07-25
+Notebook,E-commerce,NF-e,Venda,Cartão de Crédito,EUR,2839.26,3,2024-05-29
+Monitor,Loja Física,NF-e,Estorno,Cartão de Débito,BRL,2974.85,18,2024-12-10
+Mouse,App Mobile,Recibo,Venda,Cartão de Débito,BRL,3167.92,21,2025-01-27
+Mouse,Loja Física,Cupom Fiscal,Estorno,Cartão de Crédito,EUR,4678.67,25,2023-09-08
+Mouse,App Mobile,Recibo,Venda,Pix,BRL,848.37,4,2024-06-13
+Impressora,Loja Física,Cupom Fiscal,Estorno,Dinheiro,EUR,3899.05,6,2024-07-27
+Monitor,Loja Física,Cupom Fiscal,Troca,Pix,USD,1646.32,17,2023-12-28
+Teclado,Loja Física,Recibo,Estorno,Cartão de Débito,EUR,2582.56,8,2024-04-15
+Impressora,Loja Física,NF-e,Estorno,Cartão de Débito,USD,5967.06,33,2025-03-25
+Monitor,E-commerce,NF-e,Venda,Boleto,EUR,2948.63,23,2022-10-06
+Mouse,Loja Física,Cupom Fiscal,Venda,Dinheiro,BRL,1059.54,7,2023-05-10
+Teclado,App Mobile,Cupom Fiscal,Venda,Boleto,EUR,2569.07,6,2024-03-07
+Monitor,App Mobile,Cupom Fiscal,Estorno,Cartão de Crédito,EUR,504.45,10,2023-08-08
+Smartphone,E-commerce,NF-e,Venda,Boleto,EUR,1874.91,28,2023-07-02
+Teclado,App Mobile,Recibo,Venda,Cartão de Débito,BRL,4755.35,35,2024-12-03
+Mouse,E-commerce,NF-e,Troca,Pix,BRL,5969.42,33,2023-10-23
+Impressora,E-commerce,NF-e,Troca,Cartão de Crédito,BRL,1500.82,5,2024-10-17
